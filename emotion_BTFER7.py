@@ -138,5 +138,5 @@ print(classification_report(y_true, y_pred_classes, target_names=categories))
 # Save output explicitly in .h5 format
 save_dir = 'models'
 os.makedirs(save_dir, exist_ok=True)
-model.save(os.path.join(save_dir, 'model_batch7.h5'))
-print("Model saved successfully in 'models/model_batch7.h5'")
+model.save(os.path.join(save_dir, 'model_BFTER.h5'))
+print("Model saved successfully in 'models/model_BTFER.h5'")
