@@ -17,7 +17,7 @@ img_height = 64
 img_width = 64
 
 # Folder setup
-data_dir = 'data/Batch_Ready 7'
+data_dir = 'data/BTFER7'
 
 # Filter subdirectories and avoid system files like .DS_Store
 categories = sorted(
